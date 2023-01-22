@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TU-001-Home Page without Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dbde9e4b-483c-43e6-985b-d28e0de2822b</testCaseGuid>
+</TestCaseEntity>
